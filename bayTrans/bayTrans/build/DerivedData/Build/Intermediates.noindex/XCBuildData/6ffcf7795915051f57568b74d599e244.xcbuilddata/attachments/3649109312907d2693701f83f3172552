@@ -1,0 +1,169 @@
+{
+  "" : {
+    "diagnostics" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/bayTrans-primary.dia",
+    "emit-module-dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/bayTrans-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/bayTrans-primary-emit-module.dia",
+    "pch" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/bayTrans-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/bayTrans-primary.swiftdeps"
+  },
+  "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/bayTrans/AchievementsSettingsAccount.swift" : {
+    "const-values" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/AchievementsSettingsAccount.swiftconstvalues",
+    "dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/AchievementsSettingsAccount.d",
+    "diagnostics" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/AchievementsSettingsAccount.dia",
+    "index-unit-output-path" : "/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/AchievementsSettingsAccount.o",
+    "llvm-bc" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/AchievementsSettingsAccount.bc",
+    "object" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/AchievementsSettingsAccount.o",
+    "swift-dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/AchievementsSettingsAccount.swiftdeps",
+    "swiftmodule" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/AchievementsSettingsAccount~partial.swiftmodule"
+  },
+  "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/bayTrans/BayTransData.swift" : {
+    "const-values" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/BayTransData.swiftconstvalues",
+    "dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/BayTransData.d",
+    "diagnostics" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/BayTransData.dia",
+    "index-unit-output-path" : "/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/BayTransData.o",
+    "llvm-bc" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/BayTransData.bc",
+    "object" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/BayTransData.o",
+    "swift-dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/BayTransData.swiftdeps",
+    "swiftmodule" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/BayTransData~partial.swiftmodule"
+  },
+  "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/bayTrans/BayTransTranslator.swift" : {
+    "const-values" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/BayTransTranslator.swiftconstvalues",
+    "dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/BayTransTranslator.d",
+    "diagnostics" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/BayTransTranslator.dia",
+    "index-unit-output-path" : "/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/BayTransTranslator.o",
+    "llvm-bc" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/BayTransTranslator.bc",
+    "object" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/BayTransTranslator.o",
+    "swift-dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/BayTransTranslator.swiftdeps",
+    "swiftmodule" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/BayTransTranslator~partial.swiftmodule"
+  },
+  "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/bayTrans/ContentView.swift" : {
+    "const-values" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/bayTrans/HomeView.swift" : {
+    "const-values" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/HomeView.swiftconstvalues",
+    "dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/HomeView.d",
+    "diagnostics" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/HomeView.dia",
+    "index-unit-output-path" : "/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/HomeView.o",
+    "swift-dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/HomeView.swiftdeps",
+    "swiftmodule" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/HomeView~partial.swiftmodule"
+  },
+  "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/bayTrans/LearningView.swift" : {
+    "const-values" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/LearningView.swiftconstvalues",
+    "dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/LearningView.d",
+    "diagnostics" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/LearningView.dia",
+    "index-unit-output-path" : "/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/LearningView.o",
+    "llvm-bc" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/LearningView.bc",
+    "object" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/LearningView.o",
+    "swift-dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/LearningView.swiftdeps",
+    "swiftmodule" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/LearningView~partial.swiftmodule"
+  },
+  "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/bayTrans/Models.swift" : {
+    "const-values" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/Models.swiftconstvalues",
+    "dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/Models.d",
+    "diagnostics" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/Models.dia",
+    "index-unit-output-path" : "/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/Models.o",
+    "llvm-bc" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/Models.bc",
+    "object" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/Models.o",
+    "swift-dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/Models.swiftdeps",
+    "swiftmodule" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/Models~partial.swiftmodule"
+  },
+  "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/bayTrans/QuizView.swift" : {
+    "const-values" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/QuizView.swiftconstvalues",
+    "dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/QuizView.d",
+    "diagnostics" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/QuizView.dia",
+    "index-unit-output-path" : "/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/QuizView.o",
+    "llvm-bc" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/QuizView.bc",
+    "object" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/QuizView.o",
+    "swift-dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/QuizView.swiftdeps",
+    "swiftmodule" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/QuizView~partial.swiftmodule"
+  },
+  "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/bayTrans/Stores.swift" : {
+    "const-values" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/Stores.swiftconstvalues",
+    "dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/Stores.d",
+    "diagnostics" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/Stores.dia",
+    "index-unit-output-path" : "/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/Stores.o",
+    "llvm-bc" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/Stores.bc",
+    "object" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/Stores.o",
+    "swift-dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/Stores.swiftdeps",
+    "swiftmodule" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/Stores~partial.swiftmodule"
+  },
+  "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/bayTrans/TranslatorView.swift" : {
+    "const-values" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/TranslatorView.swiftconstvalues",
+    "dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/TranslatorView.d",
+    "diagnostics" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/TranslatorView.dia",
+    "index-unit-output-path" : "/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/TranslatorView.o",
+    "llvm-bc" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/TranslatorView.bc",
+    "object" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/TranslatorView.o",
+    "swift-dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/TranslatorView.swiftdeps",
+    "swiftmodule" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/TranslatorView~partial.swiftmodule"
+  },
+  "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/bayTrans/TypingView.swift" : {
+    "const-values" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/TypingView.swiftconstvalues",
+    "dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/TypingView.d",
+    "diagnostics" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/TypingView.dia",
+    "index-unit-output-path" : "/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/TypingView.o",
+    "llvm-bc" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/TypingView.bc",
+    "object" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/TypingView.o",
+    "swift-dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/TypingView.swiftdeps",
+    "swiftmodule" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/TypingView~partial.swiftmodule"
+  },
+  "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/bayTrans/UIStyles.swift" : {
+    "const-values" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/UIStyles.swiftconstvalues",
+    "dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/UIStyles.d",
+    "diagnostics" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/UIStyles.dia",
+    "index-unit-output-path" : "/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/UIStyles.o",
+    "llvm-bc" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/UIStyles.bc",
+    "object" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/UIStyles.o",
+    "swift-dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/UIStyles.swiftdeps",
+    "swiftmodule" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/UIStyles~partial.swiftmodule"
+  },
+  "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/bayTrans/WritingController.swift" : {
+    "const-values" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/WritingController.swiftconstvalues",
+    "dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/WritingController.d",
+    "diagnostics" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/WritingController.dia",
+    "index-unit-output-path" : "/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/WritingController.o",
+    "llvm-bc" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/WritingController.bc",
+    "object" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/WritingController.o",
+    "swift-dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/WritingController.swiftdeps",
+    "swiftmodule" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/WritingController~partial.swiftmodule"
+  },
+  "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/bayTrans/WritingView.swift" : {
+    "const-values" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/WritingView.swiftconstvalues",
+    "dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/WritingView.d",
+    "diagnostics" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/WritingView.dia",
+    "index-unit-output-path" : "/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/WritingView.o",
+    "llvm-bc" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/WritingView.bc",
+    "object" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/WritingView.o",
+    "swift-dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/WritingView.swiftdeps",
+    "swiftmodule" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/WritingView~partial.swiftmodule"
+  },
+  "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/bayTrans/bayTransApp.swift" : {
+    "const-values" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/bayTransApp.swiftconstvalues",
+    "dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/bayTransApp.d",
+    "diagnostics" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/bayTransApp.dia",
+    "index-unit-output-path" : "/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/bayTransApp.o",
+    "llvm-bc" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/bayTransApp.bc",
+    "object" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/bayTransApp.o",
+    "swift-dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/bayTransApp.swiftdeps",
+    "swiftmodule" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/bayTransApp~partial.swiftmodule"
+  },
+  "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/build/DerivedData/Build/Intermediates.noindex/bayTrans.build/Debug-iphonesimulator/bayTrans.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

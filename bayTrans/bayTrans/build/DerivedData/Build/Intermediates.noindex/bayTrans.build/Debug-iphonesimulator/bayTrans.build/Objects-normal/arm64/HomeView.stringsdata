@@ -1,0 +1,32 @@
+{
+  "source": "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/bayTrans/HomeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "BayTrans",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "BayTrans",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "A web and mobile educational application for Baybayin using hands-on learning with utility features.",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 53
+        }
+      }
+    ]
+  },
+  "version": 1
+}

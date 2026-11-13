@@ -1,0 +1,40 @@
+{
+  "source": "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/bayTrans/LearningView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Learn",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Character Chart",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Flashcards",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "Play",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 80
+        }
+      }
+    ]
+  },
+  "version": 1
+}

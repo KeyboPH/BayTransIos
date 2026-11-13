@@ -1,0 +1,96 @@
+{
+  "source": "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/bayTrans/QuizView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Quiz",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 35
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start New Quiz",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Start Quiz",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mode",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "Direction",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Optional Timer",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Questions: %lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Timer: %lld seconds",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Question %lld of %lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "%llds",
+        "location": {
+          "startingColumn": 33,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "Round Complete",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 152
+        }
+      }
+    ]
+  },
+  "version": 1
+}

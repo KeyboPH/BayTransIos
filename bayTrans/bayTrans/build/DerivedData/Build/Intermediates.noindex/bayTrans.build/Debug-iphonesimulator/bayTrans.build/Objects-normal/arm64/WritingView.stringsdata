@@ -1,0 +1,168 @@
+{
+  "source": "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/bayTrans/WritingView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Activities",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mode",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "New Prompt",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "Title",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Writing time: %@",
+        "location": {
+          "startingColumn": 49,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Timer hidden",
+        "location": {
+          "startingColumn": 119,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Export",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 65,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Share",
+        "location": {
+          "startingColumn": 67,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "PDF",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "DOC",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Saved Work",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 106
+        }
+      },
+      {
+        "comment": "",
+        "key": "No saved writing yet.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "Edit",
+        "location": {
+          "startingColumn": 76,
+          "startingLine": 92
+        }
+      },
+      {
+        "comment": "",
+        "key": "Share",
+        "location": {
+          "startingColumn": 88,
+          "startingLine": 94
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 100,
+          "startingLine": 96
+        }
+      },
+      {
+        "comment": "",
+        "key": "Edit Work",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 135
+        }
+      },
+      {
+        "comment": "",
+        "key": "Title",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 121
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 70,
+          "startingLine": 137
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 139
+        }
+      }
+    ]
+  },
+  "version": 1
+}

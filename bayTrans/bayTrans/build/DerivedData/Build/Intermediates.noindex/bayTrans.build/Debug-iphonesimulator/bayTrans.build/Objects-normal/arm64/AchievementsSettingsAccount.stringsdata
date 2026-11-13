@@ -1,0 +1,128 @@
+{
+  "source": "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/bayTrans/AchievementsSettingsAccount.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Achievements",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 63
+        }
+      },
+      {
+        "comment": "",
+        "key": "All core learning, translation, quiz, typing, and writing data is available locally. Optional account sync can be added later without blocking offline use.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "Theme",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enable Text to Speech",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sound Effects",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "Haptic Feedback",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Offline Mode Reminder",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "Font Size",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "Account",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "Name",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 75
+        }
+      },
+      {
+        "comment": "",
+        "key": "Email",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "Signed In",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 81
+        }
+      },
+      {
+        "comment": "",
+        "key": "Register / Sign In",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 81
+        }
+      },
+      {
+        "comment": "",
+        "key": "Local profile active. Cloud sync is intentionally optional.",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 84
+        }
+      }
+    ]
+  },
+  "version": 1
+}

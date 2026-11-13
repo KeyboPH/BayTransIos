@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>12</integer>
+	<key>logs</key>
+	<dict>
+		<key>6A3F84D3-4350-4605-BBFA-EB5FCBE82122</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6A3F84D3-4350-4605-BBFA-EB5FCBE82122.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bayTrans project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bayTrans</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project bayTrans with scheme bayTrans and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>816252666.34531105</real>
+			<key>timeStoppedRecording</key>
+			<real>816252683.78449798</real>
+			<key>title</key>
+			<string>Building project bayTrans with scheme bayTrans and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>6A3F84D3-4350-4605-BBFA-EB5FCBE82122</string>
+		</dict>
+		<key>D4A30905-43EE-4372-B272-8A2724D8C688</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D4A30905-43EE-4372-B272-8A2724D8C688.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bayTrans project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bayTrans</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project bayTrans with scheme bayTrans and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>816253201.31913197</real>
+			<key>timeStoppedRecording</key>
+			<real>816253205.71291196</real>
+			<key>title</key>
+			<string>Building project bayTrans with scheme bayTrans and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>D4A30905-43EE-4372-B272-8A2724D8C688</string>
+		</dict>
+		<key>E530719F-E3B9-4997-BE3E-A1C04FC91C95</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E530719F-E3B9-4997-BE3E-A1C04FC91C95.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>bayTrans project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>bayTrans</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project bayTrans with scheme bayTrans and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>816252852.13422501</real>
+			<key>timeStoppedRecording</key>
+			<real>816252862.45682704</real>
+			<key>title</key>
+			<string>Building project bayTrans with scheme bayTrans and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>E530719F-E3B9-4997-BE3E-A1C04FC91C95</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

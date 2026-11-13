@@ -1,0 +1,112 @@
+{
+  "source": "/Users/student/Documents/BayTransIos/bayTrans/bayTrans/bayTrans/TypingView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Typing",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "New Typing Test",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 35
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mode",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Source",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Generate Prompt",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "Time Limit: %lld seconds",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "WPM %lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "%llds remaining",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ready",
+        "location": {
+          "startingColumn": 60,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "Prompt",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "Expected",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 90
+        }
+      },
+      {
+        "comment": "",
+        "key": "Typing Results",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 204
+        }
+      },
+      {
+        "comment": "",
+        "key": "WPM and Mistakes Over Time",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 223
+        }
+      }
+    ]
+  },
+  "version": 1
+}
